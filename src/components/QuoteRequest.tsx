@@ -116,9 +116,9 @@ export default function QuoteRequest() {
                     <div className="flex flex-col font-sans">
                       <span className="text-[10px] text-white/40 uppercase tracking-widest mb-1">Corporate Headquarters</span>
                       <p className="text-xs text-white/80 leading-relaxed font-medium">
-                        38/22, Saravana Nagar 1st Street,<br />
-                        Tiruvottiyur, Tiruvallur,<br />
-                        Tamil Nadu – 600019, India
+                        38/22, Saravana Nagar 1st street,<br />
+                        Thiruvottiyur, Chennai - 600019, ,<br />
+                        Tamil Nadu, India
                       </p>
                     </div>
                   </div>
