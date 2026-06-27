@@ -88,8 +88,8 @@ export default function Footer({ onQuoteClick }: FooterProps) {
                 <MapPin className="w-4 h-4 text-gold shrink-0 mt-0.5" />
                 <span className="text-white/60 leading-relaxed">
                   38/22, Saravana Nagar 1st Street,<br />
-                  Tiruvottiyur, Tiruvallur,<br />
-                  Tamil Nadu – 600019, India
+                  Thiruvottiyur, Chennai  - 600019,<br />
+                  Tamil Nadu, India
                 </span>
               </div>
               <div className="flex gap-3 items-start">
