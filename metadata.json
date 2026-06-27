@@ -1,0 +1,6 @@
+{
+  "name": "WININDIA Shipping & Logistics",
+  "description": "Premium corporate website for WININDIA Shipping and Logistics. A world-class maritime and freight forwarding platform featuring cargo tracking, services showcase, global route planner, and interactive quote request.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
